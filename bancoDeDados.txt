@@ -1,0 +1,6 @@
+ |  |  | 
+Alexandre | categoria | 5 | 4
+pente | categoria | 10 | 
+sapato | categoria | 10 | 80
+tenis|Produtos novos|2|59.00
+camisa|Produtos novos|8|45.00
